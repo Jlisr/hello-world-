@@ -7,3 +7,5 @@ Repositorio Hello-world para pruebas de github
 Autor: Jaqueline Ramirez 
 Editando desde GitHub
 fusionando 
+
+Editando desde repositorio local
